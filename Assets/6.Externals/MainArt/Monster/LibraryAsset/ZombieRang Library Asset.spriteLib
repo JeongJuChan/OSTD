@@ -1,0 +1,200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: ZombieRang_body
+    m_Hash: 1004520217
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: ZombieRange1_body
+      m_Hash: 705973460
+      m_Sprite: {fileID: 21300000, guid: c6ca11cdb11914ee593a07dfe0c741e9, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: c6ca11cdb11914ee593a07dfe0c741e9, type: 3}
+    - m_Name: ZombieRange2_body
+      m_Hash: 746602106
+      m_Sprite: {fileID: 21300000, guid: 983cab77c5a9a418e95f7cdfdca9de70, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 983cab77c5a9a418e95f7cdfdca9de70, type: 3}
+    - m_Name: ZombieRange3_body
+      m_Hash: 668790239
+      m_Sprite: {fileID: 21300000, guid: 22ac0517bbfea414a8225a095f0efcb3, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 22ac0517bbfea414a8225a095f0efcb3, type: 3}
+    - m_Name: ZombieRange4_body
+      m_Hash: 987356519
+      m_Sprite: {fileID: 21300000, guid: e7fcb26db9ba3421db7145e9b77374c9, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: e7fcb26db9ba3421db7145e9b77374c9, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: ZombieRang_leg_r
+    m_Hash: 432860134
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: ZombieRange1_leg_r
+      m_Hash: 1011392100
+      m_Sprite: {fileID: 21300000, guid: 157d9252bbe4544438bd2dbcef5b5aab, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 157d9252bbe4544438bd2dbcef5b5aab, type: 3}
+    - m_Name: ZombieRange2_leg_r
+      m_Hash: 228623609
+      m_Sprite: {fileID: 21300000, guid: 2cfcedf864e3c44769ba91c2164fbb5a, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 2cfcedf864e3c44769ba91c2164fbb5a, type: 3}
+    - m_Name: ZombieRange3_leg_r
+      m_Hash: 735547213
+      m_Sprite: {fileID: 21300000, guid: a11b625b463904513a529eeb789a55b3, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: a11b625b463904513a529eeb789a55b3, type: 3}
+    - m_Name: ZombieRange4_leg_r
+      m_Hash: 779137475
+      m_Sprite: {fileID: 21300000, guid: 6966dd0bfc181456b8d37299b59498ea, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 6966dd0bfc181456b8d37299b59498ea, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: ZombieRang_leg_l
+    m_Hash: 600036997
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: ZombieRange1_leg_l
+      m_Hash: 105358087
+      m_Sprite: {fileID: 21300000, guid: 937872a412ca54b4f9867d6f2329cf8a, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 937872a412ca54b4f9867d6f2329cf8a, type: 3}
+    - m_Name: ZombieRange2_leg_l
+      m_Hash: 934263194
+      m_Sprite: {fileID: 21300000, guid: 55c805b8ff75a494f9359c3551f1c8c8, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 55c805b8ff75a494f9359c3551f1c8c8, type: 3}
+    - m_Name: ZombieRange3_leg_l
+      m_Hash: 299414062
+      m_Sprite: {fileID: 21300000, guid: 6808181a09b48432da0a2027ef57d35e, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 6808181a09b48432da0a2027ef57d35e, type: 3}
+    - m_Name: ZombieRange4_leg_l
+      m_Hash: 343903392
+      m_Sprite: {fileID: 21300000, guid: 8c60f73fa8cfc472f8561c2c70785064, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 8c60f73fa8cfc472f8561c2c70785064, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: ZombieRang_arm_l
+    m_Hash: 453703876
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: ZombieRange1_arm_l
+      m_Hash: 1049529670
+      m_Sprite: {fileID: 21300000, guid: c1a6ba753fd314110a8da1168862f557, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: c1a6ba753fd314110a8da1168862f557, type: 3}
+    - m_Name: ZombieRange2_arm_l
+      m_Hash: 258381787
+      m_Sprite: {fileID: 21300000, guid: cd35a8fdbf46f4bf08082b85dacea6e2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: cd35a8fdbf46f4bf08082b85dacea6e2, type: 3}
+    - m_Name: ZombieRange3_arm_l
+      m_Hash: 689020015
+      m_Sprite: {fileID: 21300000, guid: 2195fe611e46e4426afd996d6cb99260, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 2195fe611e46e4426afd996d6cb99260, type: 3}
+    - m_Name: ZombieRange4_arm_l
+      m_Hash: 750166753
+      m_Sprite: {fileID: 21300000, guid: 2f42020078b30418db020c6fb9394989, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 2f42020078b30418db020c6fb9394989, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: ZombieRang_arm_r
+    m_Hash: 554026407
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: ZombieRange1_arm_r
+      m_Hash: 75608101
+      m_Sprite: {fileID: 21300000, guid: f7400c8a63e834b75b221c10e1440ad5, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: f7400c8a63e834b75b221c10e1440ad5, type: 3}
+    - m_Name: ZombieRange2_arm_r
+      m_Hash: 896117432
+      m_Sprite: {fileID: 21300000, guid: e3fd3c5d1ca2a4c62865f9d13eeecd86, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: e3fd3c5d1ca2a4c62865f9d13eeecd86, type: 3}
+    - m_Name: ZombieRange3_arm_r
+      m_Hash: 320774412
+      m_Sprite: {fileID: 21300000, guid: 7b1bb27b92f874f439e3a06bbf307fca, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 7b1bb27b92f874f439e3a06bbf307fca, type: 3}
+    - m_Name: ZombieRange4_arm_r
+      m_Hash: 381263746
+      m_Sprite: {fileID: 21300000, guid: 3dbc51e4be1cf451c83e49050a6e6f58, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 3dbc51e4be1cf451c83e49050a6e6f58, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: ZombieRang_head
+    m_Hash: 126107191
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: ZombieRange1_head
+      m_Hash: 374321658
+      m_Sprite: {fileID: 21300000, guid: 12e68af258cc34494bcb4058df746806, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 12e68af258cc34494bcb4058df746806, type: 3}
+    - m_Name: ZombieRange2_head
+      m_Hash: 282837844
+      m_Sprite: {fileID: 21300000, guid: 01de4fac8c09c473b9d5eab633328bb1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 01de4fac8c09c473b9d5eab633328bb1, type: 3}
+    - m_Name: ZombieRange3_head
+      m_Hash: 461836529
+      m_Sprite: {fileID: 21300000, guid: f144e213a72ab49f38315b50dbfc56e3, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: f144e213a72ab49f38315b50dbfc56e3, type: 3}
+    - m_Name: ZombieRange4_head
+      m_Hash: 109191241
+      m_Sprite: {fileID: 21300000, guid: c6877c935c8fe4b5cb61f09f39dabba3, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: c6877c935c8fe4b5cb61f09f39dabba3, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: ZombieRang_spit
+    m_Hash: 253695326
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: ZombieRange1_spit
+      m_Hash: 517249683
+      m_Sprite: {fileID: 21300000, guid: 333fc38492930413ab08c732d8b7acf2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 333fc38492930413ab08c732d8b7acf2, type: 3}
+    - m_Name: ZombieRange2_spit
+      m_Hash: 406906941
+      m_Sprite: {fileID: 21300000, guid: ab84267374b65419e90eeb6c55f0cd0c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: ab84267374b65419e90eeb6c55f0cd0c, type: 3}
+    - m_Name: ZombieRange3_spit
+      m_Hash: 320617368
+      m_Sprite: {fileID: 21300000, guid: dcff8377ec1b548dca6af94d3776b39c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: dcff8377ec1b548dca6af94d3776b39c, type: 3}
+    - m_Name: ZombieRange4_spit
+      m_Hash: 236522272
+      m_Sprite: {fileID: 21300000, guid: 991b814a7dd074da19a56ea5097cde38, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 991b814a7dd074da19a56ea5097cde38, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638636740385081650
+  m_Version: 1

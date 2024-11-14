@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: SlimeFly_body
+    m_Hash: 8315492
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: SlimeFly1_body
+      m_Hash: 458798219
+      m_Sprite: {fileID: 21300000, guid: 64a18b5a101f14650a861401ecb25e4c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 64a18b5a101f14650a861401ecb25e4c, type: 3}
+    - m_Name: SlimeFly2_body
+      m_Hash: 499959333
+      m_Sprite: {fileID: 21300000, guid: 3d65fbdfecde5471da26d62453da5488, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 3d65fbdfecde5471da26d62453da5488, type: 3}
+    - m_Name: SlimeFly3_body
+      m_Hash: 378541440
+      m_Sprite: {fileID: 21300000, guid: 909655c24814b4ad8ae59102e602efaa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 909655c24814b4ad8ae59102e602efaa, type: 3}
+    - m_Name: SlimeFly4_body
+      m_Hash: 194323768
+      m_Sprite: {fileID: 21300000, guid: c6ebc2e0c63bc4a738881320eaf1150d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: c6ebc2e0c63bc4a738881320eaf1150d, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: SlimeFly_wing_r
+    m_Hash: 674899563
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: SlimeFly1_wing_r
+      m_Hash: 869574319
+      m_Sprite: {fileID: 21300000, guid: f5067325449a34c9f9f9c0d82fd6eb3c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: f5067325449a34c9f9f9c0d82fd6eb3c, type: 3}
+    - m_Name: SlimeFly2_wing_r
+      m_Hash: 1029415244
+      m_Sprite: {fileID: 21300000, guid: 3332fd12768624e5e8b01724673401ff, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 3332fd12768624e5e8b01724673401ff, type: 3}
+    - m_Name: SlimeFly3_wing_r
+      m_Hash: 837919186
+      m_Sprite: {fileID: 21300000, guid: 21c307fac409b4e328283388a58b82cd, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 21c307fac409b4e328283388a58b82cd, type: 3}
+    - m_Name: SlimeFly4_wing_r
+      m_Hash: 993306827
+      m_Sprite: {fileID: 21300000, guid: bcb718ca799a34e799afa8c779d0a884, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: bcb718ca799a34e799afa8c779d0a884, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: SlimeFly_wing_l
+    m_Hash: 305470216
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: SlimeFly1_wing_l
+      m_Hash: 165387212
+      m_Sprite: {fileID: 21300000, guid: 1730fea8becd74174a4a1464687d4841, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 1730fea8becd74174a4a1464687d4841, type: 3}
+    - m_Name: SlimeFly2_wing_l
+      m_Hash: 122985519
+      m_Sprite: {fileID: 21300000, guid: 144f104b2b8ac494ea43a05a0e2bc3e1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 144f104b2b8ac494ea43a05a0e2bc3e1, type: 3}
+    - m_Name: SlimeFly3_wing_l
+      m_Hash: 201235633
+      m_Sprite: {fileID: 21300000, guid: 812ac2a72fb104bc08f089a7101fc7db, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 812ac2a72fb104bc08f089a7101fc7db, type: 3}
+    - m_Name: SlimeFly4_wing_l
+      m_Hash: 20682152
+      m_Sprite: {fileID: 21300000, guid: d71c9f99bea404185a81409bab803075, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: d71c9f99bea404185a81409bab803075, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638639211245508090
+  m_Version: 1

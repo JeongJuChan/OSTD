@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035906029850",
+    "project_id": "outpostsurvival-eaba2",
+    "storage_bucket": "outpostsurvival-eaba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035906029850:android:e9094d7e880e347d4074a3",
+        "android_client_info": {
+          "package_name": "com.teamsparta.outpostsurvival"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3A8hetkfxBkjfS7t3VIZ_P3Mb7rv03UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

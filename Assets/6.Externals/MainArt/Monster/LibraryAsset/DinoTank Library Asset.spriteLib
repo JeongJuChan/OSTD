@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: DinoTank_body
+    m_Hash: 790625583
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: DinoTank1_body
+      m_Hash: 976833932
+      m_Sprite: {fileID: 21300000, guid: 8b412e82aa2df4f48a9c80613ef43a7a, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 8b412e82aa2df4f48a9c80613ef43a7a, type: 3}
+    - m_Name: DinoTank2_body
+      m_Hash: 1017986850
+      m_Sprite: {fileID: 21300000, guid: 8238f0902b36f45d0a32131ba5a9eda9, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 8238f0902b36f45d0a32131ba5a9eda9, type: 3}
+    - m_Name: DinoTank3_body
+      m_Hash: 938601607
+      m_Sprite: {fileID: 21300000, guid: 3cb0756f529aa4d4ba17bd66db1fd32c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 3cb0756f529aa4d4ba17bd66db1fd32c, type: 3}
+    - m_Name: DinoTank4_body
+      m_Hash: 720690239
+      m_Sprite: {fileID: 21300000, guid: a79e41f01929c4737be6b82f12d9d87f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: a79e41f01929c4737be6b82f12d9d87f, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: DinoTank_legB_r
+    m_Hash: 433063657
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: DinoTank1_legB_r
+      m_Hash: 396054377
+      m_Sprite: {fileID: 21300000, guid: 0da41cdf6c13e4225b23a2362e1ca566, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 0da41cdf6c13e4225b23a2362e1ca566, type: 3}
+    - m_Name: DinoTank2_legB_r
+      m_Hash: 420759690
+      m_Sprite: {fileID: 21300000, guid: bbf9e8e322fe0469594ba14b719e68fb, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: bbf9e8e322fe0469594ba14b719e68fb, type: 3}
+    - m_Name: DinoTank3_legB_r
+      m_Hash: 364791828
+      m_Sprite: {fileID: 21300000, guid: 1794ca40278154c628f22b02d78ead1c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 1794ca40278154c628f22b02d78ead1c, type: 3}
+    - m_Name: DinoTank4_legB_r
+      m_Hash: 528171277
+      m_Sprite: {fileID: 21300000, guid: a103cf347a39b439db983acc862b656e, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: a103cf347a39b439db983acc862b656e, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: DinoTank_legB_l
+    m_Hash: 601832330
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: DinoTank1_legB_l
+      m_Hash: 764703242
+      m_Sprite: {fileID: 21300000, guid: b4393474b62ed4eb8a38d0989f6159cd, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: b4393474b62ed4eb8a38d0989f6159cd, type: 3}
+    - m_Name: DinoTank2_legB_l
+      m_Hash: 589002217
+      m_Sprite: {fileID: 21300000, guid: 24d98dc76438f4a3baa4e79ead896ea9, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 24d98dc76438f4a3baa4e79ead896ea9, type: 3}
+    - m_Name: DinoTank3_legB_l
+      m_Hash: 800159095
+      m_Sprite: {fileID: 21300000, guid: 6122c388e43e0412daa2052b1db0b2e0, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 6122c388e43e0412daa2052b1db0b2e0, type: 3}
+    - m_Name: DinoTank4_legB_l
+      m_Hash: 628391022
+      m_Sprite: {fileID: 21300000, guid: 9ca82e9d51e5a4c53a9952484ce5d4c7, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 9ca82e9d51e5a4c53a9952484ce5d4c7, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: DinoTank_legF_l
+    m_Hash: 618042198
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: DinoTank1_legF_l
+      m_Hash: 714988246
+      m_Sprite: {fileID: 21300000, guid: ffdefca5ce1a34161a1397355258596f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: ffdefca5ce1a34161a1397355258596f, type: 3}
+    - m_Name: DinoTank2_legF_l
+      m_Hash: 605216053
+      m_Sprite: {fileID: 21300000, guid: 5627a2e7e59b849e6ad779b06a316f4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 5627a2e7e59b849e6ad779b06a316f4b, type: 3}
+    - m_Name: DinoTank3_legF_l
+      m_Hash: 683204011
+      m_Sprite: {fileID: 21300000, guid: abec2c539d537479282b3a526cb43e47, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: abec2c539d537479282b3a526cb43e47, type: 3}
+    - m_Name: DinoTank4_legF_l
+      m_Hash: 578671794
+      m_Sprite: {fileID: 21300000, guid: 0f262d239422f41588ae70a58fd8ee1c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 0f262d239422f41588ae70a58fd8ee1c, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: DinoTank_legF_r
+    m_Hash: 517582389
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: DinoTank1_legF_r
+      m_Hash: 278063029
+      m_Sprite: {fileID: 21300000, guid: 53c64a4ec125e47abad812020b0ec855, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 53c64a4ec125e47abad812020b0ec855, type: 3}
+    - m_Name: DinoTank2_legF_r
+      m_Hash: 505274454
+      m_Sprite: {fileID: 21300000, guid: b8d61295bfe074584a53e9a903bba2a4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: b8d61295bfe074584a53e9a903bba2a4, type: 3}
+    - m_Name: DinoTank3_legF_r
+      m_Hash: 314040520
+      m_Sprite: {fileID: 21300000, guid: 3449fe4f211bc4b6592f56ad737f78fe, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 3449fe4f211bc4b6592f56ad737f78fe, type: 3}
+    - m_Name: DinoTank4_legF_r
+      m_Hash: 410184145
+      m_Sprite: {fileID: 21300000, guid: 9a01aa55df8684aee8236529b3eaba3b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 9a01aa55df8684aee8236529b3eaba3b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638636640328984970
+  m_Version: 1

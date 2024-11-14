@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EnhanceStone
+  m_Controller: {fileID: 9100000, guid: f2c9d1ba3a217d54aab8b7c6ba1cfe8e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: c697bbcc5f52c9544ad2a409530b028c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 595174e7ef6d3f647a623189b512775c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ecfc560bcd6402f45b0f31deedc15fe2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3900b8391067c8742bdfed658dce84f9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9cef66360b4602544af094178a7409e0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 37b78c2837ab2bc4bbd60b6df507e68e, type: 2}

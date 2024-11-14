@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: DinoFly_body
+    m_Hash: 549168557
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: DinoFly1_body
+      m_Hash: 960498648
+      m_Sprite: {fileID: 21300000, guid: 59a72f0f73e9a4fda858036c2a39254d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 59a72f0f73e9a4fda858036c2a39254d, type: 3}
+    - m_Name: DinoFly2_body
+      m_Hash: 1070889334
+      m_Sprite: {fileID: 21300000, guid: 191f9dcd55d524719b6acf10e692a748, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 191f9dcd55d524719b6acf10e692a748, type: 3}
+    - m_Name: DinoFly3_body
+      m_Hash: 881371859
+      m_Sprite: {fileID: 21300000, guid: 5ff108356fb6a4485833fe3d2fd7dfdf, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 5ff108356fb6a4485833fe3d2fd7dfdf, type: 3}
+    - m_Name: DinoFly4_body
+      m_Hash: 697145963
+      m_Sprite: {fileID: 21300000, guid: 64399ab410d07439283a73eaaa2a15f0, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 64399ab410d07439283a73eaaa2a15f0, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: DinoFly_wing_r
+    m_Hash: 448413338
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: DinoFly1_wing_r
+      m_Hash: 966583357
+      m_Sprite: {fileID: 21300000, guid: 984cc8da9889a494aa3ec12fac819322, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 984cc8da9889a494aa3ec12fac819322, type: 3}
+    - m_Name: DinoFly2_wing_r
+      m_Hash: 924050398
+      m_Sprite: {fileID: 21300000, guid: 3e00db2c8a1fb4557a0926be654c34a3, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 3e00db2c8a1fb4557a0926be654c34a3, type: 3}
+    - m_Name: DinoFly3_wing_r
+      m_Hash: 1002038080
+      m_Sprite: {fileID: 21300000, guid: dfea96cb20fc24f3fa1c13bc1e98488d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: dfea96cb20fc24f3fa1c13bc1e98488d, type: 3}
+    - m_Name: DinoFly4_wing_r
+      m_Hash: 830270041
+      m_Sprite: {fileID: 21300000, guid: 0e83aeeb6224745dfa823a2cb96fb3ca, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 0e83aeeb6224745dfa823a2cb96fb3ca, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: DinoFly_wing_l
+    m_Hash: 548733945
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: DinoFly1_wing_l
+      m_Hash: 60021086
+      m_Sprite: {fileID: 21300000, guid: 15b974c1fc425401aac7cb757d567081, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 15b974c1fc425401aac7cb757d567081, type: 3}
+    - m_Name: DinoFly2_wing_l
+      m_Hash: 219995837
+      m_Sprite: {fileID: 21300000, guid: 44f593cf7620342c3b7d649ba414bbd9, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 44f593cf7620342c3b7d649ba414bbd9, type: 3}
+    - m_Name: DinoFly3_wing_l
+      m_Hash: 28761635
+      m_Sprite: {fileID: 21300000, guid: 1232a5af2f2054a41a43934c75413606, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 1232a5af2f2054a41a43934c75413606, type: 3}
+    - m_Name: DinoFly4_wing_l
+      m_Hash: 192141114
+      m_Sprite: {fileID: 21300000, guid: a46ebb15f85424669897a456ce28e915, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: a46ebb15f85424669897a456ce28e915, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: DinoFly_head
+    m_Hash: 484464771
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: DinoFly1_head
+      m_Hash: 85718774
+      m_Sprite: {fileID: 21300000, guid: 10d54d52f68c842f5b4982d94324c6a4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 10d54d52f68c842f5b4982d94324c6a4, type: 3}
+    - m_Name: DinoFly2_head
+      m_Hash: 59737176
+      m_Sprite: {fileID: 21300000, guid: 5f57dee72949b4a5bbdd3ad21ffc4d6e, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 5f57dee72949b4a5bbdd3ad21ffc4d6e, type: 3}
+    - m_Name: DinoFly3_head
+      m_Hash: 148068349
+      m_Sprite: {fileID: 21300000, guid: 75447e91bab6f4de8b8cf3df9555887a, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 75447e91bab6f4de8b8cf3df9555887a, type: 3}
+    - m_Name: DinoFly4_head
+      m_Hash: 366372677
+      m_Sprite: {fileID: 21300000, guid: b20bef6bda1814e30b904215096e2269, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: b20bef6bda1814e30b904215096e2269, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638636692985881170
+  m_Version: 1
