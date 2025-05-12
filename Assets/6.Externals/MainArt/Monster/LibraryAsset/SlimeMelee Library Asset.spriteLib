@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: SlimeMelee_body
+    m_Hash: 199989394
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: SlimeMelee1_body
+      m_Hash: 252540632
+      m_Sprite: {fileID: 21300000, guid: 5f53c9dd7a8344bafb068ad81eeff992, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 5f53c9dd7a8344bafb068ad81eeff992, type: 3}
+    - m_Name: SlimeMelee2_body
+      m_Hash: 161023094
+      m_Sprite: {fileID: 21300000, guid: e3ac9163bdfa7467cac0aa5f12bf41b6, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: e3ac9163bdfa7467cac0aa5f12bf41b6, type: 3}
+    - m_Name: SlimeMelee3_body
+      m_Hash: 46520275
+      m_Sprite: {fileID: 21300000, guid: 6296e01e70b2b4a09b1705fe4c57ccb5, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 6296e01e70b2b4a09b1705fe4c57ccb5, type: 3}
+    - m_Name: SlimeMelee4_body
+      m_Hash: 532735851
+      m_Sprite: {fileID: 21300000, guid: 9d670dfe2b54d4e9badd26c274d08978, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 9d670dfe2b54d4e9badd26c274d08978, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638639057946551010
+  m_Version: 1

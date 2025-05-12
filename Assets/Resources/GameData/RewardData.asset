@@ -1,0 +1,619 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ae61f994aa9344f19da2a19395d6929, type: 3}
+  m_Name: RewardData
+  m_EditorClassIdentifier: 
+  columnNames:
+  - ' '
+  - "\uBCF4\uC0C1 \uC0C1\uC790 \uCCB4\uD06C \uD3EC\uC778\uD2B8"
+  - "\uD30C\uB780\uC0C9 \uC0C1\uC790 \uBCF4\uC0C1"
+  dataRows:
+  - rowData:
+    - 1
+    - 1
+    - EnforcePowder55
+  - rowData:
+    - 
+    - 3
+    - EnforcePowder110
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 2
+    - 1
+    - BluePrint5 Gem5
+  - rowData:
+    - 
+    - 3
+    - BluePrint6 EnforcePowder360
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 3
+    - 1
+    - Equipment3 EnforcePowder395
+  - rowData:
+    - 
+    - 3
+    - BluePrint10 Gem5
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 4
+    - 1
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 3
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 5
+    - 1
+    - BluePrint5 Gem5
+  - rowData:
+    - 
+    - 3
+    - BluePrint6 EnforcePowder360
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 6
+    - 1
+    - Equipment3 EnforcePowder395
+  - rowData:
+    - 
+    - 3
+    - BluePrint10 Gem5
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 7
+    - 1
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 3
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 8
+    - 1
+    - BluePrint5 Gem5
+  - rowData:
+    - 
+    - 3
+    - BluePrint6 EnforcePowder360
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 9
+    - 1
+    - Equipment3 EnforcePowder395
+  - rowData:
+    - 
+    - 3
+    - BluePrint10 Gem5
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 10
+    - 1
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 3
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 11
+    - 1
+    - BluePrint5 Gem5
+  - rowData:
+    - 
+    - 3
+    - BluePrint6 EnforcePowder360
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 12
+    - 1
+    - Equipment3 EnforcePowder395
+  - rowData:
+    - 
+    - 3
+    - BluePrint10 Gem5
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 13
+    - 1
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 3
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 14
+    - 1
+    - BluePrint5 Gem5
+  - rowData:
+    - 
+    - 3
+    - BluePrint6 EnforcePowder360
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 15
+    - 1
+    - Equipment3 EnforcePowder395
+  - rowData:
+    - 
+    - 3
+    - BluePrint10 Gem5
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 16
+    - 1
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 3
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 17
+    - 1
+    - BluePrint5 Gem5
+  - rowData:
+    - 
+    - 3
+    - BluePrint6 EnforcePowder360
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 18
+    - 1
+    - Equipment3 EnforcePowder395
+  - rowData:
+    - 
+    - 3
+    - BluePrint10 Gem5
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 19
+    - 1
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 3
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 20
+    - 1
+    - BluePrint5 Gem5
+  - rowData:
+    - 
+    - 3
+    - BluePrint6 EnforcePowder360
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 21
+    - 1
+    - Equipment3 EnforcePowder395
+  - rowData:
+    - 
+    - 3
+    - BluePrint10 Gem5
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 22
+    - 1
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 3
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 23
+    - 1
+    - BluePrint5 Gem5
+  - rowData:
+    - 
+    - 3
+    - BluePrint6 EnforcePowder360
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 24
+    - 1
+    - Equipment3 EnforcePowder395
+  - rowData:
+    - 
+    - 3
+    - BluePrint10 Gem5
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 25
+    - 1
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 3
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 26
+    - 1
+    - BluePrint5 Gem5
+  - rowData:
+    - 
+    - 3
+    - BluePrint6 EnforcePowder360
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 27
+    - 1
+    - Equipment3 EnforcePowder395
+  - rowData:
+    - 
+    - 3
+    - BluePrint10 Gem5
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 28
+    - 1
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 3
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 29
+    - 1
+    - BluePrint5 Gem5
+  - rowData:
+    - 
+    - 3
+    - BluePrint6 EnforcePowder360
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 30
+    - 1
+    - Equipment3 EnforcePowder395
+  - rowData:
+    - 
+    - 3
+    - BluePrint10 Gem5
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 31
+    - 1
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 3
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 32
+    - 1
+    - BluePrint5 Gem5
+  - rowData:
+    - 
+    - 3
+    - BluePrint6 EnforcePowder360
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 33
+    - 1
+    - Equipment3 EnforcePowder395
+  - rowData:
+    - 
+    - 3
+    - BluePrint10 Gem5
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 34
+    - 1
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 3
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 35
+    - 1
+    - BluePrint5 Gem5
+  - rowData:
+    - 
+    - 3
+    - BluePrint6 EnforcePowder360
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 36
+    - 1
+    - Equipment3 EnforcePowder395
+  - rowData:
+    - 
+    - 3
+    - BluePrint10 Gem5
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 37
+    - 1
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 3
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 38
+    - 1
+    - BluePrint5 Gem5
+  - rowData:
+    - 
+    - 3
+    - BluePrint6 EnforcePowder360
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 39
+    - 1
+    - Equipment3 EnforcePowder395
+  - rowData:
+    - 
+    - 3
+    - BluePrint10 Gem5
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 40
+    - 1
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 3
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 41
+    - 1
+    - BluePrint5 Gem5
+  - rowData:
+    - 
+    - 3
+    - BluePrint6 EnforcePowder360
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 42
+    - 1
+    - Equipment3 EnforcePowder395
+  - rowData:
+    - 
+    - 3
+    - BluePrint10 Gem5
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 42
+    - 1
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 3
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 44
+    - 1
+    - BluePrint5 Gem5
+  - rowData:
+    - 
+    - 3
+    - BluePrint6 EnforcePowder360
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 45
+    - 1
+    - Equipment3 EnforcePowder395
+  - rowData:
+    - 
+    - 3
+    - BluePrint10 Gem5
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 46
+    - 1
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 3
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 47
+    - 1
+    - BluePrint5 Gem5
+  - rowData:
+    - 
+    - 3
+    - BluePrint6 EnforcePowder360
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 48
+    - 1
+    - Equipment3 EnforcePowder395
+  - rowData:
+    - 
+    - 3
+    - BluePrint10 Gem5
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 49
+    - 1
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 3
+    - Equipment1 BluePrint1 EnforcePowder110
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward
+  - rowData:
+    - 50
+    - 1
+    - BluePrint5 Gem5
+  - rowData:
+    - 
+    - 3
+    - BluePrint6 EnforcePowder360
+  - rowData:
+    - 
+    - 5
+    - Equipment3 StageClearReward

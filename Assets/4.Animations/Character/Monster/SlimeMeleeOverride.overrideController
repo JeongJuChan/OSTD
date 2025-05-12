@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SlimeMeleeOverride
+  m_Controller: {fileID: 9100000, guid: bbc88c8b4829f4f1bb9c48b661b17b01, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3fdd1f388c73b432495e5c3ff90607d2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4ca95bb3f648649a69c08feb691434b5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 496d489aa3e0b43c18f85d87e841f52a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 496d489aa3e0b43c18f85d87e841f52a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 77fd2f4ef35f3454eaacc7b03993daa1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 46a3db0b9427a45d5860d9a6f3a79fe4, type: 2}

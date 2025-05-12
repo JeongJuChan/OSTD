@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: DinoMelee_body
+    m_Hash: 963346531
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: DinoMelee1_body
+      m_Hash: 88421450
+      m_Sprite: {fileID: 21300000, guid: 970d1148bf42140ce9497c85f0f0d3bd, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 970d1148bf42140ce9497c85f0f0d3bd, type: 3}
+    - m_Name: DinoMelee2_body
+      m_Hash: 64046820
+      m_Sprite: {fileID: 21300000, guid: f3b1ab64018ff41079b1e9fdbeaf6b80, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: f3b1ab64018ff41079b1e9fdbeaf6b80, type: 3}
+    - m_Name: DinoMelee3_body
+      m_Hash: 143496513
+      m_Sprite: {fileID: 21300000, guid: bf526d4d558734645ac60fbd593cce9f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: bf526d4d558734645ac60fbd593cce9f, type: 3}
+    - m_Name: DinoMelee4_body
+      m_Hash: 361276921
+      m_Sprite: {fileID: 21300000, guid: 860a3685ca051400b87ab882a6d9077d, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 860a3685ca051400b87ab882a6d9077d, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: DinoMelee_leg_r
+    m_Hash: 698271623
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: DinoMelee1_leg_r
+      m_Hash: 726692191
+      m_Sprite: {fileID: 21300000, guid: 60bf3ce0ce5d740d0985ac47aa8c86c7, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 60bf3ce0ce5d740d0985ac47aa8c86c7, type: 3}
+    - m_Name: DinoMelee2_leg_r
+      m_Hash: 448293826
+      m_Sprite: {fileID: 21300000, guid: 43e4f83c63a154f849256669e6edfae5, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 43e4f83c63a154f849256669e6edfae5, type: 3}
+    - m_Name: DinoMelee3_leg_r
+      m_Hash: 1020223606
+      m_Sprite: {fileID: 21300000, guid: f3d8b2be1030840dbb8895c710bf8adb, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: f3d8b2be1030840dbb8895c710bf8adb, type: 3}
+    - m_Name: DinoMelee4_leg_r
+      m_Hash: 963141368
+      m_Sprite: {fileID: 21300000, guid: 093914f90c1384718afd9a8257bcbe01, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 093914f90c1384718afd9a8257bcbe01, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: DinoMelee_leg_l
+    m_Hash: 328334052
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: DinoMelee1_leg_l
+      m_Hash: 291458108
+      m_Sprite: {fileID: 21300000, guid: 79f6320ecc634478d8b55957d05b77b1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 79f6320ecc634478d8b55957d05b77b1, type: 3}
+    - m_Name: DinoMelee2_leg_l
+      m_Hash: 548886177
+      m_Sprite: {fileID: 21300000, guid: e66a1eb74791c40c29c158ae9770bbca, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: e66a1eb74791c40c29c158ae9770bbca, type: 3}
+    - m_Name: DinoMelee3_leg_l
+      m_Hash: 113270037
+      m_Sprite: {fileID: 21300000, guid: bfb0e423f1e7a40e091dc68a2f477aa0, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: bfb0e423f1e7a40e091dc68a2f477aa0, type: 3}
+    - m_Name: DinoMelee4_leg_l
+      m_Hash: 57107355
+      m_Sprite: {fileID: 21300000, guid: e8c5c76d37284458e919bbc10d65a712, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: e8c5c76d37284458e919bbc10d65a712, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: DinoMelee_arm_l
+    m_Hash: 727241893
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: DinoMelee1_arm_l
+      m_Hash: 697721469
+      m_Sprite: {fileID: 21300000, guid: f8c5cde81dfa64bad9ce089f1d8bf5de, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: f8c5cde81dfa64bad9ce089f1d8bf5de, type: 3}
+    - m_Name: DinoMelee2_arm_l
+      m_Hash: 410941664
+      m_Sprite: {fileID: 21300000, guid: 9943fa5b08c2b4b5694abbc162775e96, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 9943fa5b08c2b4b5694abbc162775e96, type: 3}
+    - m_Name: DinoMelee3_arm_l
+      m_Hash: 1040806740
+      m_Sprite: {fileID: 21300000, guid: 6d767200bbc13410fb8b758b139c2953, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 6d767200bbc13410fb8b758b139c2953, type: 3}
+    - m_Name: DinoMelee4_arm_l
+      m_Hash: 1001278938
+      m_Sprite: {fileID: 21300000, guid: 3472f03276bb04ec5a1307a978a930d3, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 3472f03276bb04ec5a1307a978a930d3, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: DinoMelee_arm_r
+    m_Hash: 290974150
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: DinoMelee1_arm_r
+      m_Hash: 328818462
+      m_Sprite: {fileID: 21300000, guid: cd21ec52d013c497d928aceea6034d39, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: cd21ec52d013c497d928aceea6034d39, type: 3}
+    - m_Name: DinoMelee2_arm_r
+      m_Hash: 577848707
+      m_Sprite: {fileID: 21300000, guid: 4b43f2b60d1614121b9bc8e2812fe0a9, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 4b43f2b60d1614121b9bc8e2812fe0a9, type: 3}
+    - m_Name: DinoMelee3_arm_r
+      m_Hash: 67522103
+      m_Sprite: {fileID: 21300000, guid: 4eee9cb86fffc44cabdf587ecf226849, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 4eee9cb86fffc44cabdf587ecf226849, type: 3}
+    - m_Name: DinoMelee4_arm_r
+      m_Hash: 27357369
+      m_Sprite: {fileID: 21300000, guid: a467df070491e4ef78eac30c913086e4, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: a467df070491e4ef78eac30c913086e4, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638635012205332890
+  m_Version: 1

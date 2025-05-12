@@ -1,0 +1,4784 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ae61f994aa9344f19da2a19395d6929, type: 3}
+  m_Name: StageData
+  m_EditorClassIdentifier: 
+  columnNames:
+  - "\uC2A4\uD14C\uC774\uC9C0"
+  - "\uC2A4\uD14C\uC774\uC9C0 \uC774\uB984"
+  - "\uBAAC\uC2A4\uD130 \uC778\uB371\uC2A4"
+  - "\uCCB4\uD06C\uD3EC\uC778\uD2B8"
+  - "\uC801 \uAE30\uC9C0 \uCCB4\uB825"
+  - "\uC2A4\uD53C\uB4DC"
+  - "Common \uBAAC\uC2A4\uD130 \uC0DD\uC131 \uC8FC\uAE30"
+  - "Range \uBAAC\uC2A4\uD130 \uC0DD\uC131 \uC8FC\uAE30"
+  - "Tank \uBAAC\uC2A4\uD130 \uC0DD\uC131 \uC8FC\uAE30"
+  - "Flying \uBAAC\uC2A4\uD130 \uC0DD\uC131 \uC8FC\uAE30"
+  - "Elite \uBAAC\uC2A4\uD130 \uC0DD\uC131 \uC8FC\uAE30"
+  - "Special \uBAAC\uC2A4\uD130 \uC0DD\uC131 \uC8FC\uAE30"
+  - "2\uB2E8\uACC4 \uC0DD\uC131\uC8FC\uAE30 \uBC30\uC218"
+  - "3\uB2E8\uACC4 \uC0DD\uC131\uC8FC\uAE30 \uBC30\uC218"
+  - "1\uB2E8\uACC4 \uC720\uC9C0\uC2DC\uAC04"
+  - "2\uB2E8\uACC4 \uC720\uC9C0\uC2DC\uAC04"
+  - "\uAE30\uC9C0 \uC2A4\uD504\uB77C\uC774\uD2B8 \uC77C\uBC18"
+  - "\uAE30\uC9C0 \uC2A4\uD504\uB77C\uC774\uD2B8 \uB9C8\uC9C0\uB9C9"
+  dataRows:
+  - rowData:
+    - 1
+    - "\uC96C\uB77C\uAE30 \uACF5\uC6D0"
+    - 10000 10001 10002
+    - 1
+    - 7000
+    - 1
+    - 1.5
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.7
+    - 0.5
+    - 12
+    - 8
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 14000
+    - 1.1
+    - 0.25
+    - 0
+    - 0
+    - 6
+    - 0
+    - 0
+    - 2
+    - 1.2
+    - 3
+    - 8
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 21000
+    - 1.2
+    - 0.2
+    - 0
+    - 0
+    - 6
+    - 0
+    - 0
+    - 1.5
+    - 1.1
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 28000
+    - 1.3
+    - 0.15
+    - 0
+    - 5
+    - 6
+    - 0
+    - 0
+    - 1.4
+    - 1
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 35000
+    - 1.4
+    - 0.1
+    - 0
+    - 5
+    - 6
+    - 0
+    - 0
+    - 1.3
+    - 1
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 2
+    - "\uC880\uBE44 \uC2DC\uD2F0"
+    - 10003 10004 10005
+    - 1
+    - 7500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 15000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 22500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 30000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 37500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 3
+    - "\uC2AC\uB77C\uC784 \uC232"
+    - 10006 10007 10008
+    - 1
+    - 8500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 17000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 25500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 34000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 42500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 4
+    - "\uC96C\uB77C\uAE30 \uACF5\uC6D0"
+    - 10009 10010 10011
+    - 1
+    - 9500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 19000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 28500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 38000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 47500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 5
+    - "\uC880\uBE44 \uC2DC\uD2F0"
+    - 10012 10013 10014
+    - 1
+    - 10000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 20000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 30000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 40000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 50000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 6
+    - "\uC2AC\uB77C\uC784 \uC232"
+    - 10015 10016 10017
+    - 1
+    - 11000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 22500
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 33500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 47000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 56000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 7
+    - "\uC96C\uB77C\uAE30 \uACF5\uC6D0"
+    - 10018 10019 10020
+    - 1
+    - 12500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 25000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 37500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 50000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 62500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 8
+    - "\uC880\uBE44 \uC2DC\uD2F0"
+    - 10021 10022 10023
+    - 1
+    - 13500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 27000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 40500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 54000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 67500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 9
+    - "\uC2AC\uB77C\uC784 \uC232"
+    - 10024 10025 10026
+    - 1
+    - 15000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 30000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 45000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 60000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 75000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 10
+    - "\uC96C\uB77C\uAE30 \uACF5\uC6D0"
+    - 10027 10028 10029
+    - 1
+    - 16000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 32000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 48000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 64000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 80000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 11
+    - "\uC880\uBE44 \uC2DC\uD2F0"
+    - 10030 10031 10032
+    - 1
+    - 17500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 35000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 52500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 70000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 87500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 12
+    - "\uC2AC\uB77C\uC784 \uC232"
+    - 10033 10034 10035
+    - 1
+    - 19000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 38000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 57000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 76000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 95000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 13
+    - "\uC96C\uB77C\uAE30 \uACF5\uC6D0"
+    - 10036 10037 10038
+    - 1
+    - 20000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 40000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 60000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 80000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 100000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 14
+    - "\uC880\uBE44 \uC2DC\uD2F0"
+    - 10039 10040 10041
+    - 1
+    - 21500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 43000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 64500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 86000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 107500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 15
+    - "\uC2AC\uB77C\uC784 \uC232"
+    - 10042 10043 10044
+    - 1
+    - 23500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 47000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 70500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 94000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 117500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 16
+    - "\uC96C\uB77C\uAE30 \uACF5\uC6D0"
+    - 10045 10046 10047
+    - 1
+    - 25000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 50000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 75000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 100000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 125000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 17
+    - "\uC880\uBE44 \uC2DC\uD2F0"
+    - 10048 10049 10050
+    - 1
+    - 27000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 54000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 81000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 108000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 135000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 18
+    - "\uC2AC\uB77C\uC784 \uC232"
+    - 10051 10052 10053
+    - 1
+    - 28500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 57000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 85500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 114000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 142500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 19
+    - "\uC96C\uB77C\uAE30 \uACF5\uC6D0"
+    - 10054 10055 10056
+    - 1
+    - 30500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 61000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 91500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 122000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 152500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 20
+    - "\uC880\uBE44 \uC2DC\uD2F0"
+    - 10057 10058 10059
+    - 1
+    - 32500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 65000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 97500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 130000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 162500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 21
+    - "\uC2AC\uB77C\uC784 \uC232"
+    - 10060 10061 10062
+    - 1
+    - 34000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 68000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 102000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 136000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 170000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 22
+    - "\uC96C\uB77C\uAE30 \uACF5\uC6D0"
+    - 10063 10064 10065
+    - 1
+    - 36000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 72000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 108000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 144000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 180000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 23
+    - "\uC880\uBE44 \uC2DC\uD2F0"
+    - 10066 10067 10068
+    - 1
+    - 38500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 77000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 115500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 154000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 192500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 24
+    - "\uC2AC\uB77C\uC784 \uC232"
+    - 10069 10070 10071
+    - 1
+    - 40500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 81000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 121500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 162000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 202500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 25
+    - "\uC96C\uB77C\uAE30 \uACF5\uC6D0"
+    - 10072 10073 10074
+    - 1
+    - 43000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 86000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 129000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 172000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 215000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 26
+    - "\uC880\uBE44 \uC2DC\uD2F0"
+    - 10075 10076 10077
+    - 1
+    - 45000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 90000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 135000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 180000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 225000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 27
+    - "\uC2AC\uB77C\uC784 \uC232"
+    - 10078 10079 10080
+    - 1
+    - 47500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 95000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 142500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 190000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 237500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 28
+    - "\uC96C\uB77C\uAE30 \uACF5\uC6D0"
+    - 10081 10082 10083
+    - 1
+    - 50000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 100000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 150000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 200000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 250000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 29
+    - "\uC880\uBE44 \uC2DC\uD2F0"
+    - 10084 10085 10086
+    - 1
+    - 52000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 104000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 156000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 208000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 260000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 30
+    - "\uC2AC\uB77C\uC784 \uC232"
+    - 10087 10088 10089
+    - 1
+    - 54500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 109000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 163500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 218000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 272500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 31
+    - "\uC96C\uB77C\uAE30 \uACF5\uC6D0"
+    - 10090 10091 10092
+    - 1
+    - 57500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 115000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 172500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 230000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 287500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 32
+    - "\uC880\uBE44 \uC2DC\uD2F0"
+    - 10093 10094 10095
+    - 1
+    - 60000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 120000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 180000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 240000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 300000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 33
+    - "\uC2AC\uB77C\uC784 \uC232"
+    - 10096 10097 10098
+    - 1
+    - 63000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 126000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 189000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 252000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 315000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 34
+    - "\uC96C\uB77C\uAE30 \uACF5\uC6D0"
+    - 10099 10100 10101
+    - 1
+    - 65500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 131000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 196500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 262000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 327500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 35
+    - "\uC880\uBE44 \uC2DC\uD2F0"
+    - 10102 10103 10104
+    - 1
+    - 68500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 137000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 205500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 274000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 342500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 36
+    - "\uC2AC\uB77C\uC784 \uC232"
+    - 10105 10106 10107
+    - 1
+    - 71500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 143000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 214500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 286000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 357500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 37
+    - "\uC96C\uB77C\uAE30 \uACF5\uC6D0"
+    - 10108 10109 10110
+    - 1
+    - 74000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 148000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 222000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 296000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 370000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 38
+    - "\uC880\uBE44 \uC2DC\uD2F0"
+    - 10111 10112 10113
+    - 1
+    - 77000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 154000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 231000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 308000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 385000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 39
+    - "\uC2AC\uB77C\uC784 \uC232"
+    - 10114 10115 10116
+    - 1
+    - 80500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 161000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 241500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 322000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 402500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 40
+    - "\uC96C\uB77C\uAE30 \uACF5\uC6D0"
+    - 10117 10118 10119
+    - 1
+    - 83500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 167000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 250500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 334000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 417500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 41
+    - "\uC880\uBE44 \uC2DC\uD2F0"
+    - 10120 10121 10122
+    - 1
+    - 87000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 174000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 261000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 348000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 435000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 42
+    - "\uC2AC\uB77C\uC784 \uC232"
+    - 10123 10124 10125
+    - 1
+    - 90000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 180000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 270000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 360000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 450000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 43
+    - "\uC96C\uB77C\uAE30 \uACF5\uC6D0"
+    - 10126 10127 10128
+    - 1
+    - 93500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 187000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 280500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 374000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 467500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 44
+    - "\uC880\uBE44 \uC2DC\uD2F0"
+    - 10129 10130 10131
+    - 1
+    - 97000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 194000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 291000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 388000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 485000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 45
+    - "\uC2AC\uB77C\uC784 \uC232"
+    - 10132 10133 10134
+    - 1
+    - 100000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 200000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 300000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 400000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 500000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 46
+    - "\uC96C\uB77C\uAE30 \uACF5\uC6D0"
+    - 10135 10136 10137
+    - 1
+    - 93500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 187000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 280500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 374000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 467500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 47
+    - "\uC880\uBE44 \uC2DC\uD2F0"
+    - 10138 10139 10140
+    - 1
+    - 107500
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 215000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 322500
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 430000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 537500
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 48
+    - "\uC2AC\uB77C\uC784 \uC232"
+    - 10141 10142 10143
+    - 1
+    - 111000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 222000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 333000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 444000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 555000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - SlimeCommonMonsterBasement
+    - SlimeLastMonsterBasement
+  - rowData:
+    - 49
+    - "\uC96C\uB77C\uAE30 \uACF5\uC6D0"
+    - 10144 10145 10146
+    - 1
+    - 115000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 230000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 345000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 460000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 575000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - DinoCommonMonsterBasement
+    - DinoLastMonsterBasement
+  - rowData:
+    - 50
+    - "\uC880\uBE44 \uC2DC\uD2F0"
+    - 10147 10148 10149
+    - 1
+    - 11850000
+    - 1
+    - 1
+    - 4
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.5
+    - 0.5
+    - 8
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 2
+    - 23700000
+    - 1.1
+    - 0.4
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.4
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 3
+    - 35550000
+    - 1.2
+    - 0.3
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.3
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 4
+    - 47400000
+    - 1.3
+    - 0.2
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.2
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
+  - rowData:
+    - 
+    - 
+    - 
+    - 5
+    - 59250000
+    - 1.4
+    - 0.15
+    - 2
+    - 4
+    - 0
+    - 0
+    - 0
+    - 1.5
+    - 1.15
+    - 3
+    - 5
+    - ZombieCommonMonsterBasement
+    - ZombieLastMonsterBasement
